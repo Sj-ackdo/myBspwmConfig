@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#standard
+
 #### AUTOSTART ####
 pgrep -x sxhkd > /dev/null || sxhkd &
 #picom &
