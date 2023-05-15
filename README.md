@@ -1,4 +1,4 @@
-# README.md
+# README
 This is were i upload my bspwm/sxhkd .conf/ files.
 I will update these every month on github, a planning(schedule) is down below.
 
