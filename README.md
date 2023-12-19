@@ -1,11 +1,4 @@
 # README
-This is were i upload my bspwm/sxhkd .conf/ files.
-I will update these every month on github, a planning(schedule) is down below.
+This is were i upload my bspwm/sxhkd.conf files.
 
-
-05/15/23
-Added basic config files, sxhkd: Ranger, urxvt
-                          bspwm: Spotify module (but zscroll takes up to many cpu threads)
-                          
-Thats is it.
 
